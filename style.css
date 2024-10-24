@@ -306,7 +306,7 @@ html{
     font-size: 2.5rem;
     letter-spacing: 0.938rem;
     margin-bottom: 1.875rem;
-    transition: .6s;
+    transition: .4s;
 }
 
 .product-card:hover .product-title{
@@ -330,7 +330,7 @@ html{
 .product-price{
     font-size: 2.5rem;
     letter-spacing: 0.625rem;
-    transition: .6s;
+    transition: .4s;
 }
 
 .product-card:hover .product-price{
